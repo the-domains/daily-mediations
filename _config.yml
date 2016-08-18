@@ -3,7 +3,7 @@ typography_spectrum: 0.4555138
 color:
   saturation: 1
   lightness: 1
-  brandStrength: 0.9947315
+  brandStrength: 0
   brandColors:
     - '#02131B'
     - '#36474F'
