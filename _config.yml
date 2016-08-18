@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4555138
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 0.9947315
+  brandColors:
+    - '#02131B'
+    - '#36474F'
+    - '#707064'
+    - '#DCCBB1'
+    - '#F6EBDC'
+  rhythmicContrast: 1
+name: Daily Mediations
